@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:adminpwd@192.168.142.128:27017/test
